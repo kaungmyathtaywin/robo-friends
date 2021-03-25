@@ -1,0 +1,14 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+  overflow-y: scroll;
+  border: 2px solid black;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+  height: 60vh;
+  width: 90vw;
+}
