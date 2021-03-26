@@ -1,6 +1,6 @@
 # Robofriends
 
-A simple and responsive react app for pupulating robots with cards from this [API](http://jsonplaceholder.typicode.com). This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple and responsive react app for pupulating robots with cards from this [API](http://jsonplaceholder.typicode.com). This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You can check my project hosted on github pages [here](https://kaungmyathtaywin.github.io/robofriends/).
 
 ## Available Scripts
 
