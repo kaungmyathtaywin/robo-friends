@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "./Card";
 
-const CardList = ({ robots }) => {
+function CardList({ robots }) {
   return (
     <React.Fragment>
       {robots.map((robot) => {
@@ -16,6 +16,6 @@ const CardList = ({ robots }) => {
       })}
     </React.Fragment>
   );
-};
+}
 
 export default CardList;
